@@ -7,6 +7,6 @@ namespace api.Models
 {
     public class Stock
     {
-        
+        public int? StockId { get; set; }
     }
 }
